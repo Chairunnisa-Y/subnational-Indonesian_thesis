@@ -81,5 +81,6 @@ This repository is intended solely for academic research purposes. While the dat
 ## Author
 
 Chairunnisa Yulfianti  
-Master’s Program in Economics  
+Graduate Student in Economics  
 Universitas Indonesia
+---
